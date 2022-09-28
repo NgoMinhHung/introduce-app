@@ -26,11 +26,11 @@ function Overview(props) {
 
     return (
         <div className={classes.root}>
-            <Grid container item spacing={2} xs={6} className={classes.wrapStyle}>
+            <Grid container item xs={12} className={classes.wrapStyle}>
                 {/* lottie */}
                 <Lottie options={defaultOptions}/>
             </Grid>
-            <Grid container item spacing={2} xs={6} className={classes.wrapStyle}>
+            <Grid container item xs={12} className={classes.wrapStyle}>
                 <p className={classes.textNormal} >Hi there.</p>
                 <p className={classes.textNormal} >
                     I'm <span className={classes.textHighLight}>Minh Hung Ngo</span>
@@ -45,7 +45,7 @@ function Overview(props) {
                         <img className={classes.iconStyle} src={github} alt=""/>
                     </a>
                     {/* Facebook */}
-                    <a href="">
+                    <a href="https://www.facebook.com/minhhung.ngo.97/">
                         <img className={classes.iconStyle} src={facebook} alt=""/>
                     </a>
                     {/* LinkedIn */}

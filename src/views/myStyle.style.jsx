@@ -5,15 +5,22 @@ export const useStyles = makeStyles((theme) => ({
         width: "100%",
         height: "100vh",
         backgroundImage: "linear-gradient(#992fc4, #61dafb)",
-        display: "flex"
+        display: "flex",
+        backgroundSize: 'cover',
+        [theme.breakpoints.down("800")]: { 
+            height: "100%",
+            flexDirection: "column-reverse",
+        }
     },
     wrapStyle: {
         width: "50%",
+        height: "100%",
         display: "flex",
         justifyContent: "center",
-        // alignItems: "center",
         flexDirection: "column",
-        // paddingLeft: "50px"
+        [theme.breakpoints.down("700")]: { 
+            width: "100%",
+        }
     },
     textNormal: {
         color: "white",
