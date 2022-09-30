@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/introduce-app/static/css/main.073c9b0a.css",
+    "main.js": "/introduce-app/static/js/main.e683a89f.js",
+    "static/js/787.dc07007f.chunk.js": "/introduce-app/static/js/787.dc07007f.chunk.js",
+    "static/media/twitter.svg": "/introduce-app/static/media/twitter.550ef97cfa06ab911b8cf51dd3c8e0e8.svg",
+    "static/media/email.svg": "/introduce-app/static/media/email.389dae64d26342a885963c8ff07b6904.svg",
+    "static/media/phone.svg": "/introduce-app/static/media/phone.301ab6555fd1e59953ac4b7a84517790.svg",
+    "static/media/linkedin.svg": "/introduce-app/static/media/linkedin.8a603d68fcd8b1952256022595321b00.svg",
+    "static/media/facebook.svg": "/introduce-app/static/media/facebook.07ca9a48b647493f9e9bd19285bbfb6e.svg",
+    "static/media/github.svg": "/introduce-app/static/media/github.1971c37564aa6959f40ab9c690975630.svg",
+    "index.html": "/introduce-app/index.html",
+    "main.073c9b0a.css.map": "/introduce-app/static/css/main.073c9b0a.css.map",
+    "main.e683a89f.js.map": "/introduce-app/static/js/main.e683a89f.js.map",
+    "787.dc07007f.chunk.js.map": "/introduce-app/static/js/787.dc07007f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e683a89f.js"
+  ]
+}
