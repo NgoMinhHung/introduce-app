@@ -30,7 +30,8 @@ export const useStyles = makeStyles((theme) => ({
     },
     textHighLight: {
         fontSize: "40px",
-        fontWeight: 600
+        fontWeight: 600,
+        fontFamily: "Roboto"
     },
     iconStyle: {
         width: theme.spacing(3),
